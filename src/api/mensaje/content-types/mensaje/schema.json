@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "mensajes",
+  "info": {
+    "singularName": "mensaje",
+    "pluralName": "mensajes",
+    "displayName": "mensaje"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "greetings": {
+      "type": "string"
+    }
+  }
+}
